@@ -1,4 +1,4 @@
-# RealWired Code Golf: Answers
+# RealWired Code Golf
 
 **Author:** Alex C, lead @ RealWired
 
