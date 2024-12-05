@@ -18,7 +18,7 @@ These questions are designed to be resistant to LLMs because they:
 4.  Require understanding of context-dependent transformations
 5.  Include elements that need human creativity to interpret
 
-Feel free to paste them into any LLM you like, but it's going to be obvious on your second week if you did, isn't it? The idea here is fun. There aren't any "right" answers. Only the answer *you* come up with as an *individual*.
+Feel free to paste them into any LLM you like, but it's going to be obvious on your second week if you did, isn't it? The idea here is *fun*. There aren't any "right" answers. Only the answer *you* come up with as an *individual*.
 
 ## Guidelines
 
@@ -27,6 +27,8 @@ Feel free to paste them into any LLM you like, but it's going to be obvious on y
 -   Whitespace between statements is optional
 -   Input/output methods should be specified in your answer.
 
+No need, nor any extra points for putting it into a unit test or running it on the CLI. Just human review. For fun.
+
 ## Scoring System
 
 -   Base score: Number of bytes in the answer
@@ -34,6 +36,8 @@ Feel free to paste them into any LLM you like, but it's going to be obvious on y
     -   -10% for not using any built-in functions
     -   -15% for creative variable naming that still maintains readability
     -   -20% for solutions that work with multiple input formats
+   
+Scoring is obviously subject to arbitrary dictatorship, as normal.
 
 ## Questions
 
